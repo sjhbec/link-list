@@ -1,4 +1,4 @@
-# link-list
+# Linked list in Fortran
 This is linked list for storing polymorphic data block written in FORTRAN.
 Here, we consider each link to have the following format
 
